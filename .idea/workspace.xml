@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24721d7b-57f0-47ec-bc35-72a62b630950" name="変更" comment="">
-      <change beforePath="$PROJECT_DIR$/healthcareback/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/healthcareback/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/healthcareback/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/healthcareback/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/healthcareback/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/healthcareback/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/healthcareback/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/.github/workflows/build_and_deploy.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/deferated-credential.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/healthcareback/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/healthcareback/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/healthcareback/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/healthcareback/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/healthcareback/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthcareback/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\DjangoProject\pythonProject\healthcareback" />
